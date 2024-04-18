@@ -1,0 +1,27 @@
+[
+    {
+        "movieName": "The Batman",
+        "directorName": "Matt Reeves",
+        "stars": "Robert Pattinson, Zoe Kravitz"
+    },
+    {
+        "movieName": "How to Train Your Dragon",
+        "directorName": "Dean DiBlois and Chris Sanders",
+        "stars": "Jay Baruchel, Gerard Butler"
+    },
+    {
+        "movieName": "Turning Red",
+        "directorName": "Dornee Shi",
+        "stars": "Roselie Chiang, Sandra Oh"
+    },
+    {
+        "movieName": "Pulp Fiction",
+        "directorName": "Quentin Tarantino",
+        "stars": "John Travolta, Uma Thurman"
+    },
+    {
+        "movieName": "Spider-Man: No Way Home",
+        "directorName": "Jon Watts",
+        "stars": "Tom Holland, Zendaya"
+    }
+]
